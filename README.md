@@ -8,6 +8,7 @@ Inheritance (pewarisan) memungkinkan sebuah class mewarisi atribut dan method da
 ---
 
 ## 📂 Struktur Folder
+`
 ├── Building/ // Contoh 1: Bangunan
 │ ├── Building.java
 │ ├── House.java
@@ -22,7 +23,7 @@ Inheritance (pewarisan) memungkinkan sebuah class mewarisi atribut dan method da
 ├── Electronic.java
 ├── Laptop.java
 └── LaptopGaming.java
-
+`
 
 ---
 
